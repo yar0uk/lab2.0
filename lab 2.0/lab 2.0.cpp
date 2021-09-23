@@ -18,6 +18,7 @@ int main()
 	z1 = ((cos(a) - cos(b)) * (cos(a) - cos(b))) - ((sin(a) - sin(b)) * (sin(a) - sin(b)));
 	z2 = -4 * (sin((a - b) / 2) * sin((a - b) / 2)) * cos(a + b);
 	cout << endl;
+	cout << "1";
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
 	cin.get();
