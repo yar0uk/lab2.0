@@ -20,6 +20,7 @@ int main()
 	cout << endl;
 	cout << "1";
 	cout << "2";
+	cout << "3";
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
 	cin.get();
