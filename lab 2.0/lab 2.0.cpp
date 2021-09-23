@@ -19,6 +19,7 @@ int main()
 	z2 = -4 * (sin((a - b) / 2) * sin((a - b) / 2)) * cos(a + b);
 	cout << endl;
 	cout << "1";
+	cout << "2";
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
 	cin.get();
